@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@blueprintjs/core": "3.26.1",
-    "@blueprintjs/datetime": "3.13.0",
+    "@blueprintjs/datetime": "3.24.1",
     "@blueprintjs/select": "3.12.3",
     "@codemirror/commands": "^6.2.3",
     "@codemirror/lang-markdown": "^6.1.1",
